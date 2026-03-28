@@ -43,6 +43,8 @@ This project aims to convert fragmented layoff data into **data-driven business 
 ![Dashboard Preview](images/layoff_preview2.png)
 ![Dashboard Preview](images/layoff_preview3.png)
 ![Dashboard Preview](images/layoff_preview4.png)
+![Dashboard Preview](images/layoff_preview5.png)
+![Dashboard Preview](images/layoff_preview6.png)
 
 ---
 
